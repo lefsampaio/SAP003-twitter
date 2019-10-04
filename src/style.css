@@ -1,0 +1,23 @@
+*{
+font-family: 'Rokkitt', serif;
+}
+.h1{
+    background-color:white;
+    text-align: center;
+    margin: 10px;
+}
+body{
+    background-image:url("img.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.bg-text{
+    background-color: whitesmoke;
+    margin: 10px;
+
+}
+
+.tweet-text{
+    margin-left: 25%;
+}
